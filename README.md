@@ -17,8 +17,8 @@
 - Confusion Matrix: A detailed confusion matrix was used to visualize the true vs predicted labels, helping assess model accuracy.
 - Model Transparency: This Random Forest model’s behavior can be analyzed through the visualized decision tree. Generally speaking, Random Forest models are NOT known for their transparency.  
 
-## ***Completed Project Link (Kaggle)*** 
-**Kaggle Code/Project: * ______ ***  
+## ***Completed Code/Project Link (Kaggle)*** 
+**Kaggle Code/Project Link:** * ______ *  
   
 ## ***Original Dataset Link (UCI Machine Learning Repository)***  
 **UCI-ML Repository Link:** *https://archive.ics.uci.edu/dataset/53/iris*
