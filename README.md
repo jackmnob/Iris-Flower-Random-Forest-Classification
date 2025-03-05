@@ -12,7 +12,7 @@
 4. **Model Evaluation** - Evaluated our model's performance using metrics such as accuracy, precision, recall, F1-score, and confusion matricies.
 5. **Visualization** - Visualized our model's performance with confusion matrices and a simple random forest tree diagram for insights into how the model makes its predictions.
 
-## ***Interactive Model Insights***  
+## ***Model Insights***  
 - Performance Metrics: Our model demonstrates high accuracy in classifying Iris flower species which provides insight into the precision and recall for each species.
 - Confusion Matrix: A detailed confusion matrix was used to visualize the true vs predicted labels, helping assess model accuracy.
 - Model Transparency: This Random Forest model’s behavior can be analyzed through the visualized decision tree. Generally speaking, Random Forest models are NOT known for their transparency.  
