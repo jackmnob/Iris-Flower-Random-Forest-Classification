@@ -9,7 +9,7 @@
 1. **Data Collection** - The Iris flower dataset was sourced from the UCI Machine Learning Repository and contains 150 samples, each representing one of three Iris flower species.
 2. **Data Cleaning & Preprocessing** - Leveraged pandas to clean the data, detect any missing values, and perform EDA prior to model implementation.
 3. **Model Development** - Built a Random Forest model using Python's scikit-learn library to classify each species based on their attributes (sepal length, sepal width, petal length, and petal width).
-4. **Model Evaluation** - Evaluated our model's performance using metrics such as accuracy, precision, recall, F1 score, and a confusion matrix.
+4. **Model Evaluation** - Evaluated our model's performance using metrics such as accuracy, precision, recall, F1-score, and confusion matricies.
 5. **Visualization** - Visualized our model's performance with confusion matrices and a simple random forest tree diagram for insights into how the model makes its predictions.
 
 ## ***Interactive Model Insights***  
