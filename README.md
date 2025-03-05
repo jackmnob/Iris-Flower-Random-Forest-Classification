@@ -18,7 +18,7 @@
 - Model Transparency: This Random Forest model’s behavior can be analyzed through the visualized decision tree. Generally speaking, Random Forest models are NOT known for their transparency.  
 
 ## ***Completed Code/Project Link (Kaggle)*** 
-**Kaggle Code/Project Link:** * ______ *  
+**Kaggle Code/Project Link:** *https://www.kaggle.com/code/jackmnob/irisclassification*  
   
 ## ***Original Dataset Link (UCI Machine Learning Repository)***  
 **UCI-ML Repository Link:** *https://archive.ics.uci.edu/dataset/53/iris*
